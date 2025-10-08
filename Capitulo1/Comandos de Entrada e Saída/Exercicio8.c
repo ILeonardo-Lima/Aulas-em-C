@@ -2,7 +2,6 @@
 
 Descrição: Esse programa converte a idade de anos de vida para dias de vida e 
 exibe o resultado usando a função printf.
-Nome: Lucas Garcia e Leonardo de Oliveira
 Data: 19/09/2025
 
 *******************************************************************************/
