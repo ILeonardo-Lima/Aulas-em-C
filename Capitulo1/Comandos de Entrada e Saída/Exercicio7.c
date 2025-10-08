@@ -2,6 +2,7 @@
 
 Descrição: Esse programa faz a conversão de um valor em polegadas para centímetros 
 e exibe o seu valor usando a função printf.
+Nome:Leonardo de Oliveira
 Data: 19/09/2025
 
 *******************************************************************************/
