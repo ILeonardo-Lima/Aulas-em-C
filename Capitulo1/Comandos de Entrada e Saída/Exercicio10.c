@@ -2,6 +2,7 @@
 
 Descrição: Esse programa lê 4 notas de um aluno, calcula a média entre elas e
 exibe o seu resultado usando a função printf.
+Nome:Leonardo de Oliveira
 Data: 19/09/2025
 
 *******************************************************************************/
