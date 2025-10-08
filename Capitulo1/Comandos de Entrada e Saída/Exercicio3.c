@@ -2,6 +2,7 @@
 
 Descrição: Esse programa lê três números, realiza a soma entre eles e exibe 
 o resultado da operação usando a função printf.
+Nome:Leonardo de Oliveira
 Data: 19/09/2025
 
 *******************************************************************************/
