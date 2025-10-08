@@ -2,6 +2,7 @@
 
 Descrição: Esse programa solicita um valor ao usuário, lê o valor, calcula o quadrado
 desse valor e imprime o resultado desse calculo usando a função printf.
+Nome:Leonardo de Oliveira
 Data: 19/09/2025
 
 *******************************************************************************/
