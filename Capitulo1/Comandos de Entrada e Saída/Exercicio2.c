@@ -2,6 +2,7 @@
 
 Descrição: Esse programa faz a leitura de dois valores e exibe o resultado do
 seu produto utilizando a função printf.
+Nome:Leonardo de Oliveira
 Data: 19/09/2025
 
 *******************************************************************************/
@@ -27,3 +28,4 @@ int main()
     return 0;
 
 }
+
