@@ -2,6 +2,7 @@
 
 Descrição: Esse programa calcula a área de um quadrado sabendo apenas um lado informado
 e exibe o seu valor usando a função printf.
+Nome:Leonardo de Oliveira
 Data: 19/09/2025
 
 *******************************************************************************/
