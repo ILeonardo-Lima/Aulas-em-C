@@ -1,7 +1,10 @@
+// faça um programa em portugol que escreva o nome dos 5 memnbros de um grupo e suas respctivas idades e
+// infome o nome da pessoa pessoa mais velha, utilizando Se/Senao
+
 programa {
   funcao inicio() {
     
-        cadeia nome1, nome2, nome3, nome4, nome5, mais_velho
+    cadeia nome1, nome2, nome3, nome4, nome5, mais_velho
     inteiro idade1, idade2, idade3, idade4, idade5, maior_idade
 
     escreva("Digite o nome do 1º membro: ")
@@ -29,6 +32,31 @@ programa {
     escreva("Digite a idade de " + nome5 + ": ")
      leia(idade5)
 
-     se (idade1 > idade2 e idade)
-  }
+    maior_idade = idade1
+    mais_velho = nome1
+
+    se (idade2 >= maior_idade){
+      mais_velho = nome2
+      maior_idade = idade2
+    }
+    senao{}
+
+    se (idade3 >= maior_idade){
+      mais_velho = nome3
+      maior_idade = idade3
+    }
+    senao{}
+
+    se (idade4 >= maior_idade){
+      mais_velho = nome4
+      maior_idade = idade4
+    }
+    senao{}
+
+    se (idade5 >= maior_idade){
+      mais_velho = nome5
+      maior_idade = idade5
+    }
+    escreva("A pessoa que completou mais primaveras foi "+ mais_velho + ", com " + maior_idade + " anos")
+    }
 }
