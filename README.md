@@ -4,8 +4,6 @@
 
 Este repositório contém exercícios e atividades práticas em linguagem C, desenvolvidos para a AV1 (Avaliação 1) da disciplina de Programação em Linguagem C (PRC). Os códigos seguem as diretrizes do professor, cobrindo conceitos iniciais como comandos de entrada/saída e operadores matemáticos, lógicos, relacionais e de atribuição.
 
-Ideal para revisão rápida ou como base para novos alunos. Todos os capítulos foram atualizados em dezembro de 2025!
-
 ## 📋 Estrutura do Repositório
 
 Os capítulos estão organizados em pastas numeradas sequencialmente (1 a 4), com subpastas temáticas. Cada pasta inclui:
